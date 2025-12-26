@@ -18,7 +18,7 @@ Aşağıdaki adımlar, geliştirme ortamını kurmak ve projeyi çalıştırmak 
 Konum: `zimmet-app/server`
 
 ## 1.1. Bağlantı Ayarları
-- Varsayılan ayar: `localhost:1433`, DB: `Zimmet_Web`
+- Varsayılan ayar: `localhost:1433`, DB: `Zimmet_App`
 - Kullanıcı adı/parola: örnek olarak `deneme/deneme` kullanabilirsiniz (güvenlik için üretimde değiştirin).
 - Gerekirse `server/db.js` içinde bağlantı bilgilerinizi düzenleyin (instance adı/port, kullanıcı, parola, veritabanı).
 - Named Instance (ör. SQLEXPRESS) kullanıyorsanız ya TCP/IP ile 1433 portunu aktif edin ya da instance adıyla bağlanacak şekilde konfigüre edin.
